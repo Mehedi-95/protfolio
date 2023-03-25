@@ -1,0 +1,113 @@
+body{
+    margin: 0px;
+    
+
+}
+.color{
+    color: orange;
+}
+.header{
+    background-image: url(image/header_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 850px;
+    display: flex;
+    margin-left: 00px;
+}
+.mehedi{
+    font-size: 25px;
+    margin-top: 20px;
+}
+.Portfolio{
+    display:flex;
+    margin-left:700px;
+    font-size:20px;
+    font-weight:300px;
+    margin-right: 50px;
+    margin-top: 35px;
+    
+}
+
+.hader_text{
+    margin-top: -500px;
+    font-family: sans-serif;
+    margin-left: 200px;
+}
+.hader_text h1{
+    font-size: 75px;
+    color:#000000;
+}
+.hader_text h4{
+    color:#757575;
+    margin-top:-50px;
+}
+.hader_text p{
+    font-size: 20px;
+    color:#ffffff;
+    background-color:tomato;
+    padding:10px 15px;
+    border-radius:solid 5px;
+    
+}
+
+.download{
+    text-decoration: none;
+    color:#ffffff;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+
+}
+.about_me{
+    margin-top: 200px;
+    text-align: center;
+    background-color:antiquewhite; 
+    margin-left:180px;
+    margin-right: 180px;
+    border-radius: 5px;
+
+}
+.me{
+    font-family:sans-serif;
+    padding: 80px 0px 0px 0px;
+    font-size: 45px;
+}
+.about_me p{
+    font-size: 20px;
+    color: #757575;
+    margin: 0px 0px 30px;
+}
+.name{
+    display: flex;
+    margin-bottom: 50px;
+    margin-left: 270px;
+}
+.hasan{
+    padding-right: 50px; 
+    text-align: center;
+}
+.hasan p{
+    font-family:sans-serif;
+    color: #757575;
+    font-size: 20px;
+   
+}
+.hasan h4{
+    font-family:sans-serif;
+    color: #454545;
+    font-weight: 30px;
+    font-size: 20px;
+}
+
+.what{
+ font-size: 35px;
+ text-align:center;
+}
+.node
+{
+    display: flex;
+    
+}
+
+
+
